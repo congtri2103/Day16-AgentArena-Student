@@ -10,7 +10,6 @@ quan trọng nhất (7, 8, 9) kiểm tra ba điều khoản provenance của run
 KHÔNG có triệu chứng nào khác: cổng trace vẫn qua, bài chạy vẫn xong,
 điểm chỉ đơn giản là sai với tất cả mọi người cùng lúc.
 """
-
 from __future__ import annotations
 
 import argparse
